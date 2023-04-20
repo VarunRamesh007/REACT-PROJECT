@@ -1,0 +1,36 @@
+const BlogApi = [
+    {
+      id: 1,
+      image: "",
+      date: "",
+      title_one: "",
+      desc_one: "  ",
+      title_two: "",
+      desc_two: "",
+      title_three: "",
+      desc_three: " ",
+    },
+    {
+      id: 2,
+      image: "",
+      date: "",
+      title_one: "",
+      desc_one: "  ",
+      title_two: "",
+      desc_two: "",
+      title_three: "",
+      desc_three: " ",
+    },
+    {
+      id: 3,
+      image: "",
+      date: "",
+      title_one: "",
+      desc_one: "  ",
+      title_two: "",
+      desc_two: "",
+      title_three: "",
+      desc_three: " ",
+    },
+  ]
+  export default BlogApi
